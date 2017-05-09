@@ -1,2 +1,1 @@
-# LibraryApp
-Simple Library App using AngularJS
+# angularjs-sample-app
